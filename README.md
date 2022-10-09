@@ -1,0 +1,7 @@
+👋 Hi, I'm Anas Arkawi!
+
+I'm currently a student working on mainly Web Development and some AI projects. I mainly work with JavaScript and Python.
+
+I got some experience with various frameworks and libraries like express.js, react.js, etc.
+
+I'm open to collaborate on various projects and I'm also open to work on freelance deb development work. If you're interested in the latter, check out my [PeoplePerHour](https://www.peopleperhour.com/freelancer/technology-programming/anas-arkawi-web-developer-jnzyjya) page!
